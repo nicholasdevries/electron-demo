@@ -8,7 +8,8 @@
           "node": "current"
         }
       }
-    ]
+    ],
+    "@babel/preset-react"
   ],
   "plugins": [["transform-object-rest-spread", { "useBuiltIns": true }]]
 }
